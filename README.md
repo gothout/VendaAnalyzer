@@ -20,5 +20,5 @@ O VendaAnalyzer é um aplicativo Java que permite ler informações de um arquiv
 1. Clone este repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/seu-usuario/VendaAnalyzer.git
+git clone https://github.com/gothout/VendaAnalyzer.git
 ```
